@@ -1,0 +1,27 @@
+﻿  SEBuilder.cpp
+e:\shitot\final2\simpleborderfactory.h(23): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(24): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(25): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(26): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(27): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(28): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(29): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(30): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(31): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(32): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(33): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(47): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(48): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(49): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(50): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(51): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(52): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(53): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(54): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(55): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(56): warning C4309: '=': truncation of constant value
+e:\shitot\final2\simpleborderfactory.h(57): warning C4309: '=': truncation of constant value
+e:\shitot\final2\controller.h(13): warning C4091: 'typedef ': ignored on left of 'Border' when no variable is declared
+e:\shitot\final2\controller.h(60): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Final2.vcxproj -> E:\shitot\x64\Debug\Final2.exe
+  Final2.vcxproj -> E:\shitot\x64\Debug\Final2.pdb (Full PDB)
